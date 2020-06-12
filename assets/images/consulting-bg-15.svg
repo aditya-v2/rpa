@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1081px" viewBox="0 0 1920 1081" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Consulting_Bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Consulting_Bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 1.000000)">
+        <rect fill="#FFFFFF" x="0" y="0" width="1920" height="1080"></rect>
+        <rect id="Rectangle" fill="#FDF4E6" opacity="0.2" x="0" y="0" width="1920" height="1080"></rect>
+        <g id="Bitmap" transform="translate(-112.000000, -23.000000)" fill="#FEF9F2">
+            <polygon id="Path" points="995.024324 23 689.884795 681 0.669939887 681 0 0.546875"></polygon>
+        </g>
+        <polygon id="Rectangle" stroke="#FEF9F2" stroke-width="2" points="569.481317 609 663.121907 609 611.640591 715 518 715"></polygon>
+        <polygon id="Rectangle" stroke="#FEF9F2" stroke-width="2" points="1599.11171 304 1653.88263 304 1623.77091 366 1569 366"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="201px" viewBox="0 0 300 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Execution</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Execution" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 1.000000)">
+        <g id="Group" transform="translate(0.000000, 15.000000)">
+            <g id="Group-5" transform="translate(0.343070, -0.000000)">
+                <path d="M2.97024463,23.5727958 L91.4505412,1.13686838e-13 L91.4505412,1.13686838e-13 L205.341846,1.13686838e-13 L205.341846,169 L91.4505412,169 L1.10363274,74.148447 C0.395170169,73.4046609 -3.87100734e-15,72.4168312 0,71.3896326 L0,27.4379741 C1.55438382e-15,25.6254269 1.21878999,24.0394158 2.97024463,23.5727958 Z" id="Path-34" fill="#000000" opacity="0.05"></path>
+                <rect id="Rectangle" stroke="#035AA6" fill="#FFFFFF" x="91.4505412" y="0" width="113.891304" height="169" rx="2"></rect>
+                <g id="Group-3" transform="translate(98.798367, 13.471014)">
+                    <rect id="Rectangle" stroke="#035AA6" x="1.22463768" y="12.2463768" width="96.7463768" height="42.25"></rect>
+                    <g id="Group-2" transform="translate(0.000000, 60.619565)">
+                        <rect id="Rectangle-Copy" stroke="#035AA6" x="1.22463768" y="1.22463768" width="15.9202899" height="16.5326087"></rect>
+                        <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="21.8497368 3.0615942 33.1130548 3.0615942 33.1130548 0.612318841 21.8497368 0.612318841"></polygon>
+                        <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="21.8497368 10.8876505 44.3763728 10.8876505 44.3763728 8.43837515 21.8497368 8.43837515"></polygon>
+                        <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="21.8497368 18.7137068 38.576087 18.7137068 38.576087 16.2644315 21.8497368 16.2644315"></polygon>
+                        <polygon id="Path-31" fill="#035AA6" fill-rule="nonzero" points="16.7038619 0.799907808 0.783572043 17.3325165 1.66570332 18.1819763 17.5859932 1.64936755"></polygon>
+                        <polygon id="Path-31" fill="#035AA6" fill-rule="nonzero" transform="translate(9.184783, 9.490942) scale(-1, 1) translate(-9.184783, -9.490942) " points="16.7038619 0.799907808 0.783572043 17.3325165 1.66570332 18.1819763 17.5859932 1.64936755"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(52.659420, 60.619565)">
+                        <rect id="Rectangle-Copy" stroke="#035AA6" x="1.22463768" y="1.22463768" width="15.9202899" height="16.5326087"></rect>
+                        <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="21.8497368 3.0615942 33.1130548 3.0615942 33.1130548 0.612318841 21.8497368 0.612318841"></polygon>
+                        <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="21.8497368 10.8876505 44.3763728 10.8876505 44.3763728 8.43837515 21.8497368 8.43837515"></polygon>
+                        <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="21.8497368 18.7137068 38.576087 18.7137068 38.576087 16.2644315 21.8497368 16.2644315"></polygon>
+                        <polygon id="Path-31" fill="#035AA6" fill-rule="nonzero" points="16.7038619 0.799907808 0.783572043 17.3325165 1.66570332 18.1819763 17.5859932 1.64936755"></polygon>
+                        <polygon id="Path-31" fill="#035AA6" fill-rule="nonzero" transform="translate(9.184783, 9.490942) scale(-1, 1) translate(-9.184783, -9.490942) " points="16.7038619 0.799907808 0.783572043 17.3325165 1.66570332 18.1819763 17.5859932 1.64936755"></polygon>
+                    </g>
+                    <polygon id="Path-32" fill="#035AA6" fill-rule="nonzero" points="1.22463768 92.2966271 97.0357931 92.2966271 97.0357931 91.0719894 1.22463768 91.0719894"></polygon>
+                    <polygon id="Path-32" fill="#035AA6" fill-rule="nonzero" points="1.22463768 1.67343866 97.0357931 1.67343866 97.0357931 0.448800975 1.22463768 0.448800975"></polygon>
+                    <circle id="Oval" stroke="#035AA6" cx="25.6543655" cy="124.36375" r="21.9804524"></circle>
+                    <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="57.0748132 135.322464 97.9710145 135.322464 97.9710145 132.873188 57.0748132 132.873188"></polygon>
+                    <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="57.0748132 129.199275 97.9710145 129.199275 97.9710145 126.75 57.0748132 126.75"></polygon>
+                    <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="57.0748132 123.076087 97.9710145 123.076087 97.9710145 120.626812 57.0748132 120.626812"></polygon>
+                    <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="57.0748132 116.952899 97.9710145 116.952899 97.9710145 114.503623 57.0748132 114.503623"></polygon>
+                    <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="57.0748132 110.82971 97.9710145 110.82971 97.9710145 108.380435 57.0748132 108.380435"></polygon>
+                    <polygon id="Path-33" fill="#035AA6" fill-rule="nonzero" points="26.2666843 102.383298 25.0420466 102.383298 25.0420466 125.407616 45.6104063 113.907983 45.0127821 112.839066 26.2666843 123.319885"></polygon>
+                </g>
+                <polygon id="Path-30" fill="#035AA6" fill-rule="nonzero" points="155.87318 157.365942 175.950541 157.365942 175.950541 154.916667 155.87318 154.916667"></polygon>
+            </g>
+            <path d="M48.9979161,75.2239331 L4.30245405,75.2239331 C1.92460405,75.2239331 -3.55271368e-13,73.3019138 -3.55271368e-13,70.9331093 L-3.55271368e-13,27.7804033 C-3.55271368e-13,25.4115988 1.92460405,23.4895795 4.30245405,23.4895795 L48.9979161,23.4895795 C51.3757661,23.4895795 53.3020614,25.4115988 53.3020614,27.7804033 L53.3020614,70.9331093 C53.3020614,73.3019138 51.3757661,75.2239331 48.9979161,75.2239331" id="Fill-132" fill="#DFE1E8"></path>
+        </g>
+    </g>
+</svg>

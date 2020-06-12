@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1081px" viewBox="0 0 1920 1081" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>contactus-bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="contactus-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 1.000000)">
+        <rect fill="#FFFFFF" x="0" y="0" width="1920" height="1080"></rect>
+        <polygon id="Rectangle" fill="#035AA6" opacity="0.04" points="1683.24337 34 1976.53277 34 1815.2894 366 1522 366"></polygon>
+        <polygon id="Rectangle-Copy-2" stroke="#2E80AF" opacity="0.6" points="450.54153 532 478.810387 532 463.268858 564 435 564"></polygon>
+        <g id="Group" transform="translate(0.000000, 497.000000)" opacity="0.3" stroke="#2E80AF">
+            <polygon id="Rectangle-Copy" points="119.880551 2.52242671e-13 269.917948 2.52242671e-13 201.037397 142 51 142"></polygon>
+            <polygon id="Rectangle-Copy" points="31.0836687 119 83.2043748 119 52.1207061 178 -4.54614702e-13 178"></polygon>
+        </g>
+    </g>
+</svg>

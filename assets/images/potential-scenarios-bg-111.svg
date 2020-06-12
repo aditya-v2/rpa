@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>potential_scenarios_Bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="potential_scenarios_Bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1920" height="1080"></rect>
+        <g id="Group" transform="translate(1300.686456, 355.000000)" opacity="0.5" stroke-width="1.5">
+            <g id="Group-2" transform="translate(0.276327, 0.450105)">
+                <polygon id="Path" stroke="#2E80AF" points="498.372876 0 468.97416 74.1338593 449.771905 52.6600037 361.693679 131.421417 342.632099 108.27637 202.27465 217.717643 130.125093 139.191152 24.4412144 232.918047 15.3394547 222.655152 131.107244 119.985232 203.81645 199.120837 344.729951 89.245992 363.199852 111.672607 440.627838 42.4343141 421.426559 20.9613429"></polygon>
+                <polygon id="Path" stroke="#ED9208" points="483.442968 135.1171 454.044252 209.25096 434.841997 187.777104 346.763771 266.538518 327.702191 243.39347 187.344742 352.834744 115.195185 274.308252 9.5113064 368.035147 0.409546683 357.772252 116.177336 255.102332 188.886542 334.237938 329.800043 224.363092 348.269944 246.789708 425.69793 177.551414 406.496651 156.078443"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
